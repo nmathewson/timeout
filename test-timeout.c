@@ -472,8 +472,6 @@ main(int argc, char **argv)
 
 /* TODO:
 
- * Solve PR#3.
-
  * Investigate whether any untaken branches are possible.
 
  */
